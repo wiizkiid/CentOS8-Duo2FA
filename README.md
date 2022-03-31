@@ -4,6 +4,8 @@ www.networkwizkid.com
 
 Thank you for downloading my script. Please read this document before using the script.
 
+This script will configure Duo 2FA for SSH access to CentOS 8 servers.
+
 Disclaimer: The script contained within this folder has been created and tested on CentOS 8 x64 architecture. However, I will not be held liable for any unforseen changes that the system encounters. By using this script you are accepting full responsibility for any system changes caused by this script.
 
 Instructions:
